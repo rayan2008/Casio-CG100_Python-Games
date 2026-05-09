@@ -7,12 +7,12 @@ All games can be simply downloaded to calculator using a simple usb c data cable
 
 **Games:** </p>
 - Noughts and Crosses <br>
-- Simple Chrome Dino game clone <p>
+- Simple Chrome Dino game clone <br>
 - Flappy Bird <br>
-- Minesweeper <br>
-- Pacman <br>
+- Minesweeper (OK - Flag, EXE - Uncover) <br>
+- Pacman (Press exe to run) <br>
 - Snake <br>
-- Space Invaders <br>
+- Space Invaders (Arrows - Move, EXE - shoot) <br>
 - Tetris (Original Full Screen Size - Slower due to performance scaling) <br>
 - Tetris2 (Smaller size - Faster Performance)
 
