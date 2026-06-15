@@ -1,3 +1,7 @@
+# Maintainer: Chiron Horwood
+# Github: Chiron8
+# Email: chiron.dev8@gmail.com
+
 # The calculator doesn't support the time package so I just have the turtle move round a couple times to give the same effect
 
 from turtle import *
@@ -136,7 +140,3 @@ for i in range(1, 10):
     goto(-100, -100)
     goto(100, 100)
 x = input()
-
-
-    
-    
