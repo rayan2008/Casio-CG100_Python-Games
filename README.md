@@ -6,7 +6,7 @@ Some games have been added to this collection from other repos and some may have
 All games can be simply downloaded to calculator using a simple usb c data cable and following standard casio instructions
 
 **Games:** </p>
-- Noughts and Crosses <br>
+- Noughts and Crosses - Created by Chiron8 <br>
 - Simple Chrome Dino game clone <br>
 - Flappy Bird <br>
 - Minesweeper (OK - Flag, EXE - Uncover) <br>
